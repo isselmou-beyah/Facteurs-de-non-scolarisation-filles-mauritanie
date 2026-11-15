@@ -83,8 +83,8 @@ Au seuil de 0,5, le modèle atteint une sensibilité de 88 %, une spécificité 
 ## Reproduire l'analyse
 
 ```bash
-git clone https://github.com/isselmou-beyah/non-scolarisation-filles-mauritanie.git
-cd non-scolarisation-filles-mauritanie
+git clone https://github.com/isselmou-beyah/Facteurs-de-non-scolarisation-filles-mauritanie.git
+cd Facteurs-de-non-scolarisation-filles-mauritanie
 pip install -r requirements.txt
 ```
 
